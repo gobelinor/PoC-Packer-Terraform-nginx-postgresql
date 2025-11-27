@@ -41,5 +41,4 @@ variable "ssh_username" {
 variable "network_uuid" {
   type        = string
   description = "Network UUID for Ext-Net"
-  default     = "6011fbc9-4cbf-46a4-8452-6890a340b60b"
 }
